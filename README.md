@@ -3,11 +3,6 @@
 
 This is Full Stack  application made using **MERN Stack**. The **Idea** was to build a platform where users can review a Tech Product.
 
-NOTE:- Filter by Tags functionality was added afterwards (as shown in 1st Screenshot)
-
-<br/>
-
-
 ## Technologies Used
 
 ##### Following are the technologies used to build this app :-
