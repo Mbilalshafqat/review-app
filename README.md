@@ -1,7 +1,7 @@
 
 # LetsReviewTech
 
-This is Full Stack  application made using **MERN Stack**. The **Idea** was to build a platform where users can review a Tech Product. Do watch [the Demo](https://www.youtube.com/watch?v=dNBVHuGEX3g).
+This is Full Stack  application made using **MERN Stack**. The **Idea** was to build a platform where users can review a Tech Product.
 
 NOTE:- Filter by Tags functionality was added afterwards (as shown in 1st Screenshot)
 
@@ -36,22 +36,6 @@ NOTE:- Filter by Tags functionality was added afterwards (as shown in 1st Screen
 
 <br/>
 
-
-## Screenshots
-
-![App Screenshot](/screenshots/ss-4.png)
-<br/>
-
-![App Screenshot](/screenshots/ss-2.png)
-<br/>
-
-![App Screenshot](/screenshots/ss-3.png)
-<br/>
-
-
-
-<br/>
-
 ## Run Locally
 
 Follow the following steps to run the project locally -
@@ -72,12 +56,6 @@ Follow the following steps to run the project locally -
 
 <br/>
 
-
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at [sahiljit.com](https://www.sahiljit.com)
 
 
 
